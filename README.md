@@ -1,3 +1,5 @@
+# Word.
+#Simple abundanceMethodist for enlightenment.
 # 20221031-PY
 2022-10-31 
 This problem was asked by Google.
